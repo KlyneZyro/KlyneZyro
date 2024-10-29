@@ -4,9 +4,8 @@
 
 <h2>Education</h2>
 <ul>
-    <li>BS Computer Science</li>
     <li>New Era University</li>
-    <li>2023 - Present</li>
+    BS Computer Science (2023 - Present)
 </ul>
 
 <h2>Certification</h2>
