@@ -11,7 +11,7 @@
 <h2>Certification</h2>
 <ul>
     <li><a href="https://courses.cognitiveclass.ai/certificates/5d0d1b5a21b8426dae8c148c096afc83" target="_blank">SQL and Relational Databases 101</a></li>
-    <li><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id">Oracle Cloud Infrastructure 2024 Foundations Associate</a></li>
+    <li><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=4A20DD986DA1C14410E7DEECF67066190C87B89B762AA4C5F842B44C8E82D442">Oracle Cloud Infrastructure 2024 Foundations Associate</a></li>
 </ul>
 
 <h2>Skill Sets</h2>
