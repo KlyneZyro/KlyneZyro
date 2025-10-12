@@ -21,7 +21,7 @@
 <ul>
     <li>Programming: Java</li>
     <li>Databases: IBM DB2 Cloud</li>
-    <li>Tools: Lucidchart, Eclipse</li>
+    <li>Tools: Lucidchart, Figma, Eclipse</li>
 </ul>
 
 <!--
