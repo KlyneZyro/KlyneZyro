@@ -10,7 +10,7 @@
 
 <h2>Certification</h2>
 <ul>
-    <li><a href="https://raw.githubusercontent.com/KlyneZyro/Other-Certificates/main/Klyne%20Reyes%20Palo%20Alto%20Networks%20Course%20Certificate%20of%20Completion.pdf" target="_blank">Palo Alto Fundamentals Of Cybersecurity</a></li>
+    <li><a href="httpss://KlyneZyro.github.io/Other-Certificates/Klyne%20Reyes%20Palo%20Alto%20Networks%20Course%20Certificate%20of%20Completion.pdf" target="_blank">Palo Alto Fundamentals Of Cybersecurity</a></li>
     <li><a href="https://www.credly.com/badges/ff979379-dec5-4a41-9d87-681176bc1741/public_url" target="_blank">Cisco Networking Academy Introduction To Cybersecurity</a></li>
     <li><a href="https://courses.cognitiveclass.ai/certificates/5d0d1b5a21b8426dae8c148c096afc83" target="_blank">SQL and Relational Databases 101</a></li>
     <li><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=4A20DD986DA1C14410E7DEECF67066190C87B89B762AA4C5F842B44C8E82D442">Oracle Cloud Infrastructure 2024 Foundations Associate</a></li>
