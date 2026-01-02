@@ -56,17 +56,20 @@ Hi there! I’m **Klyne Zyro Reyes**, a Computer Science student at New Era Univ
 
 ## 🤝 Connect with Me
 
-<a href="https://linkedin.com/in/klyne-zyro-reyes">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:klynezyroreyes@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KlyneZyro&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlyneZyro&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+
+  <a href="https://linkedin.com/in/klyne-zyro-reyes">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:klynezyroreyes@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=KlyneZyro&style=for-the-badge&color=2e2e2e&labelColor=557C94&label=Views" alt="Profile Views" />
+
+  <br />
+  <br />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=KlyneZyro&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlyneZyro&layout=compact&theme=radical&hide_border=true" height="165" alt="languages graph" />
+
 </div>
