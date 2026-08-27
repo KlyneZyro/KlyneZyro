@@ -63,9 +63,10 @@ Hi there! I'm **Klyne Zyro Reyes**, a Certified Red Team Analyst (CRTA) and Cert
 * **Focus:** SQL Injection (Union-Based), DOM-based XSS, IDOR, and business logic abuse.
 * **Skills Applied:** Manual exploitation, Burp Suite, OWASP Top 10 methodology.
 
-### 📂 PortSwigger Web Security Academy — *Writeup in progress*
-*274/274 labs completed across 31 vulnerability categories (SQLi, XSS, CSRF, JWT, OAuth, prototype pollution, race conditions, Web LLM attacks).*
-* **Link coming soon**
+### 📂 [PortSwigger Web Security Academy — Full Writeup](https://github.com/KlyneZyro/PortSwigger-WebSecurityAcademy-Full-Writeup)
+*Complete lab-by-lab documentation of the entire Web Security Academy catalog.*
+* **Focus:** 274/274 labs completed across 31 vulnerability categories (SQLi, XSS, CSRF, JWT, OAuth, prototype pollution, race conditions, Web LLM attacks) — 80 Critical, 156 High, 36 Medium, 2 Low findings, each scored under CVSS and mapped to OWASP Top 10:2025.
+* **Skills Applied:** Burp Suite (Repeater, Intruder, Collaborator), JWT Editor, Turbo Intruder, Hashcat, manual exploitation across every major web vulnerability class.
 
 ---
 
