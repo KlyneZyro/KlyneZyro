@@ -1,5 +1,10 @@
-<h1 align="center">Hello, I am Zy 👋</h1>
-<h3 align="center">Aspiring Penetration Tester | CRTA & WEB-RTA Certified</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=200&section=header&text=Klyne%20Zyro%20Reyes&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=600&lines=Aspiring+Penetration+Tester;CRTA+%26+WEB-RTA+Certified;274%2F274+PortSwigger+Labs+Completed;Always+Learning%2C+Always+Testing" />
+</p>
 
 Hi there! I'm **Klyne Zyro Reyes**, a Certified Red Team Analyst (CRTA) and Certified Web Red Team Analyst (WEB-RTA), and a Computer Science student at New Era University in Quezon City, Philippines. I'm focused on offensive security — network and Active Directory exploitation, web application penetration testing, and building out my methodology through hands-on labs and documented VAPT reports.
 
@@ -70,6 +75,23 @@ Hi there! I'm **Klyne Zyro Reyes**, a Certified Red Team Analyst (CRTA) and Cert
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KlyneZyro&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlyneZyro&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KlyneZyro&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KlyneZyro&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" />
+</p>
+
+---
+
 ## 🤝 Connect with Me
 
 <div align="center">
@@ -84,3 +106,9 @@ Hi there! I'm **Klyne Zyro Reyes**, a Certified Red Team Analyst (CRTA) and Cert
   <br />
   <img src="https://img.shields.io/github/followers/KlyneZyro?label=Followers&style=for-the-badge&logo=github&color=181717&logoColor=white" alt="GitHub followers" />
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KlyneZyro/KlyneZyro/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
